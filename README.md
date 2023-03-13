@@ -4,4 +4,4 @@ This project will involve making a website with a homepage linking to several re
 2. Use basic html elements (titles, headings, paragraphs, lists)
 3. Use html element attributes to create absolute and/or relative hyperlinks and images
 4. Utilize git & github
-5. Comment code and git commits
+5. Comment git commits
